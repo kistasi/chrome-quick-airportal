@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Quick AirPortal",
+  "description": "A simple Google Chrome / Microsoft Edge plugin which provide a list of the latest articles on airportal.hu news site.",
+  "version": "1.0",
+  "icons": {
+    "16": "images/airportal-logo.png",
+    "32": "images/airportal-logo.png",
+    "48": "images/airportal-logo.png",
+    "128": "images/airportal-logo.png"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
